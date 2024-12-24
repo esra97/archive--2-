@@ -1,0 +1,8 @@
+train: C:/Users/90553/Downloads/archive (2)/dataset_split/train  # Eğitim verisi
+val: C:/Users/90553/Downloads/archive (2)/dataset_split/valid  # Doğrulama verisi
+test: C:/Users/90553/Downloads/archive (2)/dataset_split/test  # Test verisi
+
+nc: 20  # 20 sınıf
+names: ['topaz', 'silver', 'quartz', 'pyrite', 'microcline', 'magnetite', 'hematite', 
+        'gypsum', 'gold', 'fluorite', 'diopside', 'corundum', 'chalcedony', 'cassiterite', 
+        'calcite', 'beryl', 'arsenopyrite', 'amethyst', 'albite', 'agate']  # Sınıf isimleri
